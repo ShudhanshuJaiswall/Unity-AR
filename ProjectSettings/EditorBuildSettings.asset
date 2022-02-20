@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/AurynSky/Forest Pack/Scenes/DemoScene_Forest.unity
+    guid: cc3394a362c052545b42823ea9539668
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 0
+    path: Assets/himalaya.unity
+    guid: d9ee3b2c9adeca44f8832b60a06dedb4
+  - enabled: 0
+    path: Assets/forest.unity
+    guid: eee6c493b0cdcf24c848a462a98ad86b
+  - enabled: 0
+    path: Assets/mountain.unity
+    guid: 21424e4edf6986b42abd00be043f4bd4
+  - enabled: 0
+    path: Assets/myscene.unity
+    guid: 2dc0a4ef507dd564e897d828109a3ad0
+  - enabled: 0
+    path: Assets/tree.unity
+    guid: babcc7a2c0bba8f4f9baa5827ff6a0b2
+  - enabled: 0
+    path: Assets/water.unity
+    guid: 3df86c49415432148ba808943b9f6ac4
+  m_configObjects: {}
